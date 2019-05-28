@@ -1,3 +1,3 @@
-const main = require('./main/main');
+const main = require("./main/main");
 
-main();
+console.log(main("9"));
